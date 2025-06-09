@@ -34,4 +34,5 @@ Totalmente focada e determinada nessa nova página da minha carreira como desenv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## GitHub Stats card
+
 ![Adriana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianaaudacia11&show_icons=true&theme=tokyonight)
